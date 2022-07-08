@@ -28,9 +28,14 @@ Conclusion and Future Work:
 As a result of this experiment, we were able to uncover a consistent pattern in the mean concentration levels of air pollutants, despite the fact that the mean concentration levels of air pollutants are clearly erratic. It is also obvious from past data that mean levels of air pollutants can consistently jump or fall, thus we anticipate that by adding as many impacting elements as possible along with the spatial data, we would be capable of achieving better results in the near future.
 Since there are several other models, including auto-regressor, ARIMA, and moving average, have indeed been demonstrated to be effective at diagnosing time series difficulties accompanying RNNs and LSTMs. We would try to work on these model versions as well. Furthermore, since each of such algorithms will have its own set of benefits and costs, an ensemble classifier can be designed to mitigate drawbacks simultaneously stacking the benefits and obtaining significant outcomes.
 
-REFERENCES
+References:
+
 [1] Understanding LSTMs <https://colah.github.io/posts/2015-08-Understanding-LSTMs/>
+
 [2] Fabiana Martins Clemente, Aleš Popovič, Sara Silva, and Leonardo Vanneschi, "A Machine Learning Approach to Predict Air Quality in California”, 04 Aug 2020, IEEE
+
 [3] Yun-Chia Liang, Yona Maimury, Angela Hsiang-Ling Chen, and Josue Rodolfo Cuevas Juarez, “Machine Learning-Based Prediction of Air Quality”, 21 December 2020, MDPI
+
 [4] Deriving Back Propagation Equations for an LSTM < https://christinakouridi.blog/2019/06/19/backpropagation-lstm/>
+
 [5] Everything you need to know about Min-Max normalization: A Python tutorial < https://towardsdatascience.com/everything-you-need-to-know-about-min-max-normalization-in-python-b79592732b79>
